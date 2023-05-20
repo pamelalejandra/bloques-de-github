@@ -1,0 +1,60 @@
+.fondoGris{
+    color: rgb(64, 64, 70);
+    font-size: 65px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    width: 560px;
+    height: 720px;
+    background-color: rgb(225, 225, 231);
+    margin: 40px 270px 40px 270px;
+    padding:20px;
+}
+
+.arriba{
+    padding-top: 2px;
+    background-color: rgb(162, 179, 224);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.tres{
+    display: inline-block;
+    margin:1px;
+    padding:7px;
+}
+
+.centro{
+    background-color: rgb(99, 99, 167);
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dos{
+    display: inline-block;
+    margin:1px;
+    padding:7px;
+}
+
+.abajo{
+    padding-top: 2px;
+    background-color: rgb(34, 34, 73);
+    display: flex;
+    align-items: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.tres2{
+    display: inline-block;
+    margin:1px;
+    padding:7px;
+}
+
+div{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+}
